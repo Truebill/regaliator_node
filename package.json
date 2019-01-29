@@ -1,21 +1,21 @@
 {
   "name": "regaliator",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Nodejs client library for connecting to the Regalii API",
   "keywords": "regalii payment api xdata xchange xpay",
   "homepage": "https://www.regalii.com/api",
   "author": "Geoffrey Roguelon <geoffrey@regalii.com>",
   "license": "MIT",
   "bugs": {
-    "url" : "https://github.com/regalii/regaliator_node/issues",
-    "email" : "contact@regalii.com"
+    "url": "https://github.com/regalii/regaliator_node/issues",
+    "email": "contact@regalii.com"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/regalii/regaliator_node.git"
+    "type": "git",
+    "url": "https://github.com/regalii/regaliator_node.git"
   },
-  "engines" : {
-    "node" : ">=4.7.2 <=8.4.0"
+  "engines": {
+    "node": ">=4.7.2 <=8.4.0"
   },
   "main": "index.js",
   "scripts": {
