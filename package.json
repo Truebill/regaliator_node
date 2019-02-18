@@ -1,6 +1,6 @@
 {
   "name": "@truebill/regaliator",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Nodejs client library for connecting to the Regalii API",
   "keywords": "regalii payment api xdata xchange xpay",
   "homepage": "https://www.regalii.com/api",
